@@ -1,0 +1,11 @@
+###GET All Fodd
+GET http://localhost:8080/food
+Accept: application/json
+
+###POST Food
+POST http://localhost:8080/food
+Content-Type: application/json
+
+{
+
+}
